@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="placeholder_date">Date</string>
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_text">Text</string>
+    <string name="show_comments">Comments</string>
+    <string name="post_comment">Post Comment</string>
+    <string name="your_comments">Your Comments</string>
+    <string name="empty_comment">Required fields are empty!</string>
+    <string name="comment_error">Could not add comment!</string>
+    <string name="economics">Economics</string>
+    <string name="sports">Sports</string>
+    <string name="politics">Politics</string>
+</resources>

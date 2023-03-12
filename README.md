@@ -14,7 +14,7 @@ CS310 - Mobile Application Development Course Project
 ## Introduction
 - This is a project created for the CS 310 Mobile Application Development course at Sabanci University. 
 - The project is a native Android app which shows News from different categories and allows users to post comments on them.
-- The Android framework is used alongside the Java language for the UI. The backend is provided through an API prematurely given to us by the instructor.
+- The Android framework is used alongside the Java language for the UI. An API provided by the instructor is used as the backend.
 
 
 ## Objectives
